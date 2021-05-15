@@ -1,0 +1,8 @@
+{
+  "name": "prisma-nexus-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/laptopisasset/prisma-nexus-workshop.git",
+  "author": "Soundhar <laptopisasset@gmail.com>",
+  "license": "MIT"
+}
