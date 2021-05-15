@@ -5,6 +5,10 @@
   "repository": "https://github.com/laptopisasset/prisma-nexus-workshop.git",
   "author": "Soundhar <laptopisasset@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --transpile-only --no-notify src/index.ts",
+    "build": "tsc"
+  },
   "devDependencies": {
     "@types/node": "^15.3.0",
     "prisma": "^2.22.1",
